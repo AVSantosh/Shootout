@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{31F522A3-423E-360C-370B-0CAAC36A0FCF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Shootout",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

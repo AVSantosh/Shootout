@@ -1,13 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "{31F522A3-423E-360C-370B-0CAAC36A0FCF}",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "Shootout",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a0206c18047bbe56a1832b4bf12f003feee1ba0a8aca1645d5bb492a00f3f5f
+size 234
